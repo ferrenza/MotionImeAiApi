@@ -2,7 +2,7 @@
 # Motion Ime Ai Api
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/icons/1204973330449567774/a1bb705019ec7a1b0a239172cffc18d6.webp?size=128" alt="MotionIme Logo" />
+  <img src="https://cdn.discordapp.com/icons/1204973330449567774/a1bb705019ec7a1b0a239172cffc18d6.webp?size=256" alt="MotionIme Logo" />
 </p>
 
 Welcome to **MotionImeAiApi**! This repository is dedicated to developing the knowledge base for the Motion Ime AI, a multifunctional digital assistant. The purpose of this repository is to collect and manage information in JSON format that can be used by Motion Ime AI in various contexts.
